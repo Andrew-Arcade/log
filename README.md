@@ -1,6 +1,16 @@
 # LOG
 
 <details>
+<summary>May 19, 2025: Starting v2 cad designs.</summary><br>
+    <img style="width: 400px;" src="photos/starting v2 cad designs/Screenshot 2025-05-19 182155.png">
+    <img style="width: 400px;" src="photos/starting v2 cad designs/Screenshot 2025-05-19 182156.png">
+</details>
+
+### Version 1
+
+> I will find a pic of the completed thing.
+
+<details>
 <summary>Jan 23, 2025: Beginning assembly!</summary><br>
     <img style="width: 400px;" src="photos/beginning assembly/Photo Jan 23 2025, 6 44 45 PM.jpg">
 </details>
