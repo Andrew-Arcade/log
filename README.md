@@ -8,7 +8,12 @@
 
 ### Version 1
 
-> I will find a pic of the completed thing.
+<details>
+<summary>Jan 23, 2025: FINISHED!!!!</summary><br>
+    <img style="width: 400px;" src="photos/finished v1/Photo Apr 18 2025, 9 03 13 PM.jpg">
+    <img style="width: 400px;" src="photos/finished v1/Photo Apr 18 2025, 9 03 38 PM.jpg">
+    <img style="width: 400px;" src="photos/finished v1/Photo Apr 18 2025, 9 03 49 PM.jpg">
+</details>
 
 <details>
 <summary>Jan 23, 2025: Beginning assembly!</summary><br>
