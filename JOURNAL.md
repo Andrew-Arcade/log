@@ -17,7 +17,7 @@ I'm still new to KiCad but I'm starting to learn how to use it. I want to make m
 
 **Total time spent: 1 hour**
 
-# May 21nd: Designed a Screen Mount
+# May 21st: Designed a Screen Mount
 
 I designed a mount in onshape to hold my screen in place and have nice holes for mounting.
 
